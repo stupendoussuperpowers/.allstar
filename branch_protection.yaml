@@ -1,3 +1,5 @@
 optConfig:
-  optOutStrategy: true
+  optOutStrategy: false
+  optInRepos:
+    - imfs
 action: issue
